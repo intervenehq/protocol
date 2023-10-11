@@ -1,4 +1,6 @@
 # protocol
-A type-safe and context-safe specification for APIs.
+A type-safe and context-safe specification for APIs. 
 
-Star for Karma. Watch for the action.
+(OpenAPI is not enough)
+
+Star for Karma.
